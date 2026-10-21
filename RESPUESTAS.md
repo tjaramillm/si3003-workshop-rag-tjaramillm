@@ -87,9 +87,43 @@ No tengo esa información en el contexto proporcionado.
 ## A2 · Tu propio corpus de documentos
 
 _Evidencia:_ …
+    {
+        "id": "product_001", "title": "CloudSync Pro — Precios",
+        "content": "El plan Enterprise cuesta $49/mes por usuario con compromiso anual. El plan mensual sin compromiso cuesta $59/mes por usuario.",
+        "metadata": {"department": "sales", "type": "pricing"},
+    },
+    {
+        "id": "hr_001", "title": "Política de trabajo remoto",
+        "content": "Los empleados pueden trabajar de forma remota hasta 3 días por semana, con aprobación del jefe directo.",
+        "metadata": {"department": "hr", "type": "policy"},
+    },
+    {
+        "id": "finance_001", "title": "Política de reembolsos",
+        "content": "Los reembolsos mayores a $100 requieren aprobación del supervisor. Una vez aprobados, se procesan en 3 a 5 días hábiles al método de pago original.",
+        "metadata": {"department": "finance", "type": "policy"},
+    },
+    {
+        "id": "hr_002", "title": "Onboarding",
+        "content": "Durante la primera semana se completan módulos obligatorios de seguridad, cumplimiento y cultura de la empresa.",
+        "metadata": {"department": "hr", "type": "procedure"},
+    },
+    {
+    "id": "ventas_001","title": "Política de descuentos",
+    "content": "Los descuentos superiores al 15 % requieren aprobación del gerente comercial",
+    "metadata": {"department": "ventas", "type": "policy"}
+    },
+    {
+    "id": "comida_001","title": "Menu del día",
+    "content": "El menu del dia es frijoles con chicharron y de bebida hay guandolo",
+    "metadata": {"department": "food", "type": "context"}
+    }
+
+<img width="1551" height="540" alt="image" src="https://github.com/user-attachments/assets/389771fa-34d4-4eac-a22c-6423c529dac4" />
 
 _Mi respuesta / análisis:_
+cual es la bebida del menu?La bebida del menú es guandolo.
 
+cual es el menu del día?El menú del día es frijoles con chicharrón y de bebida hay guandolo.
 
 ## A3 · Ingeniería del prompt (antes y después)
 
