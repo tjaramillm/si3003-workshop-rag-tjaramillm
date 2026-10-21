@@ -40,8 +40,17 @@ ef y ef construction son el mismo concepto, pero ef construction es para inicial
 _Evidencia:_ …
 
 _Mi respuesta / análisis:_
+**Busqueda**
+No sortea
+Parametros en capa principal : ef en 0
+ef en capas altas = 1
+No modifica el inice
 
-
+**Insercion**
+Si sortea por decaimiento exponencial
+Parametros en capa prinicipal = ef_construction en l hasta capa 0
+ef en capas altas = 1
+Modifica el indice
 
 
 ## T4 · El invariante de FAISSVectorStore
