@@ -69,6 +69,20 @@ _Evidencia:_ …
 
 _Mi respuesta / análisis:_
 
+¿Cuántos días pueden trabajar remotamente los empleados?
+Hasta 3 días por semana, con aprobación del jefe directo.
+
+¿Cuál es el precio del plan Enterprise de CloudSync Pro?
+El plan Enterprise de CloudSync Pro cuesta $49/mes por usuario con compromiso anual.
+
+¿Qué pasa con los reembolsos mayores a $100?
+Requieren aprobación del supervisor. Una vez aprobados, se procesan en 3 a 5 días hábiles al método de pago original.
+
+¿Qué ocurre durante la primera semana de onboarding?
+Durante la primera semana se completan módulos obligatorios de seguridad, cumplimiento y cultura de la empresa.
+
+quien conquisto america?
+No tengo esa información en el contexto proporcionado.
 
 ## A2 · Tu propio corpus de documentos
 
